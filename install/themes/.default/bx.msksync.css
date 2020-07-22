@@ -1,0 +1,14 @@
+
+.bx_msksync, .bx_msksync-20x20
+{ display: inline-block; background: url('icons/bx.msksync/icon.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+
+.bx_msksync { background-position: -2px -0px; width: 246px; height: 246px; }
+.bx_msksync-20x20 { 
+    width: 34px;
+    height: 25px;
+    background-position: center;
+    background-size: contain;
+}
+
+
+
